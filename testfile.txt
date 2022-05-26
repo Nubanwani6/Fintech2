@@ -1,2 +1,5 @@
 The Lord is Good
 This is my moment of grace
+
+Added extra lines to demonstrate different commits
+
