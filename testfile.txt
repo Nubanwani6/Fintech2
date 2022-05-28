@@ -2,4 +2,16 @@ The Lord is Good
 This is my moment of grace
 
 Added extra lines to demonstrate different commits
-
+1 Jackson
+2 Tan
+3 Michael
+4 James
+5 Manchester
+6 Julie
+7 John
+8 Juliet
+9 Deborah
+10 Chinedu
+11 Emeka
+12 Thomas
+13 Sammie
